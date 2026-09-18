@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ashutosh Kushwaha
+# 👋 Hi, I'm Ashutosh 
 
 ### 💻 B.Tech CSE Student | Aspiring Software Engineer
 
